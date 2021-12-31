@@ -14,7 +14,7 @@ Miao Cheng, Yuan Yan Tang, Chi-Man Pun, Nonparametric Feature Extraction via Dir
 
 
 **********************************************************************************************
-Note: there may exist minor errors in the sources, as it has been put on hold for a long time. If you find any, please do not hesitate to let me know. Many thanks and good look.
+Note: there may exist minor errors in the sources, as it has been put on hold for a long time. If you find any, please do not hesitate to let me know. Many thanks and good luck.
 
 Email: miao_cheng@outlook.com
 
