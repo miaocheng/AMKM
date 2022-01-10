@@ -1,7 +1,7 @@
 # AMKM
 The source codes of AMKM method.
 
-This repository contains the source codes of our proposed AMKM method. If you fond it useful for reference, I would appreciate if you can cite the following work in your publications.
+This repository contains the source codes of our proposed AMKM method. If you fond it useful for reference, I would appreciate if you could cite the following work in your publications.
 
 Miao Cheng, Xinge You, Adaptive Matching of Kernel Means, International Conference on Pattern Recognition, Milan, Italy, 2020.
 
